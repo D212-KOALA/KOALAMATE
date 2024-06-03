@@ -1,2 +1,4 @@
 - [Hyaanu](https://gibhub.com/Hyaanu)
 - [JangMinSeong](https://github.com/JangMinSeong)
+- [LEEJUNSU11](https://gibhub.com/LEEJUNSU11)
+- [danbeeS2](https://github.com/danbeeS2)
