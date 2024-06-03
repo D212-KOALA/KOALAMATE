@@ -1,1 +1,2 @@
 - [Hyaanu](https://gibhub.com/Hyaanu)
+- [JangMinSeong](https://github.com/JangMinSeong)
